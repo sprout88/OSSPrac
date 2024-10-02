@@ -14,3 +14,4 @@ print(f"학번 : {sid}")
 print(f"학과 : {major}")
 print(f"학년 : {year}")
 
+
